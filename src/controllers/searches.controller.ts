@@ -31,7 +31,7 @@ export const createSearch = async (req: Request, res: Response) => {
 
 
     return res.status(201).json({
-        message: `Search almacenado correctamente: ${search.results} de ${search.timestamp}`
+        message: `Search almacenado correctamente: ${search.username} de ${search.results}`
     })
 
 
