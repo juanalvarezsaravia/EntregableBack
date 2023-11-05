@@ -20,7 +20,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQxNzI3ZGRlZDQyZDVmMjkyYzhiNjkiLCJuYW1lIjoibHVsdSIsImVtYWlsIjoibHVsdUBlbWFpbC5jb20iLCJpYXQiOjE2OTg3ODg1MDUsImV4cCI6MTY5ODg3NDkwNX0.eJ5_k0EUuXxjfOgyHOFbwbpg2fX2gzgIJS397_bifG8",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQ3OWIzMDMyMDJkOTM0ODY4ZTBiYjYiLCJuYW1lIjoiUGFibG8gRGlheiIsImVtYWlsIjoicGFibG9AZW1haWwuY29tIiwiaWF0IjoxNjk5MTkxNzc3LCJleHAiOjE2OTkyNzgxNzd9.VrVagFzpeNRPvu4taI2DmRWa_G3cCVzU9JeA3pNamcU",
 									"type": "string"
 								}
 							]
@@ -29,7 +29,7 @@
 						"header": [
 							{
 								"key": "auth-token",
-								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQxNzI3ZGRlZDQyZDVmMjkyYzhiNjkiLCJuYW1lIjoibHVsdSIsImVtYWlsIjoibHVsdUBlbWFpbC5jb20iLCJpYXQiOjE2OTg3ODg1MDUsImV4cCI6MTY5ODg3NDkwNX0.eJ5_k0EUuXxjfOgyHOFbwbpg2fX2gzgIJS397_bifG8",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQ3OWIzMDMyMDJkOTM0ODY4ZTBiYjYiLCJuYW1lIjoiUGFibG8gRGlheiIsImVtYWlsIjoicGFibG9AZW1haWwuY29tIiwiaWF0IjoxNjk5MTkxNzc3LCJleHAiOjE2OTkyNzgxNzd9.VrVagFzpeNRPvu4taI2DmRWa_G3cCVzU9JeA3pNamcU",
 								"type": "text"
 							}
 						],
@@ -104,7 +104,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQxNzI3ZGRlZDQyZDVmMjkyYzhiNjkiLCJuYW1lIjoibHVsdSIsImVtYWlsIjoibHVsdUBlbWFpbC5jb20iLCJpYXQiOjE2OTg3ODg1MDUsImV4cCI6MTY5ODg3NDkwNX0.eJ5_k0EUuXxjfOgyHOFbwbpg2fX2gzgIJS397_bifG8",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQzYTA4N2ZjZGMxN2IzZGY3ODk2YTkiLCJuYW1lIjoibGFsbyIsImVtYWlsIjoibGFsb0BlbWFpbC5jb20iLCJpYXQiOjE2OTg5MzI3MjEsImV4cCI6MTY5OTAxOTEyMX0.XCEgTBWx82DkZ35hpLKMDqLDMZQaSZimO3pvCq-Mgbo",
 									"type": "string"
 								}
 							]
@@ -113,7 +113,7 @@
 						"header": [
 							{
 								"key": "auth-token",
-								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQxNzI3ZGRlZDQyZDVmMjkyYzhiNjkiLCJuYW1lIjoibHVsdSIsImVtYWlsIjoibHVsdUBlbWFpbC5jb20iLCJpYXQiOjE2OTg3ODg1MDUsImV4cCI6MTY5ODg3NDkwNX0.eJ5_k0EUuXxjfOgyHOFbwbpg2fX2gzgIJS397_bifG8",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQzYTA4N2ZjZGMxN2IzZGY3ODk2YTkiLCJuYW1lIjoibGFsbyIsImVtYWlsIjoibGFsb0BlbWFpbC5jb20iLCJpYXQiOjE2OTg5MzI3MjEsImV4cCI6MTY5OTAxOTEyMX0.XCEgTBWx82DkZ35hpLKMDqLDMZQaSZimO3pvCq-Mgbo",
 								"type": "text"
 							}
 						],
@@ -122,12 +122,12 @@
 							"urlencoded": [
 								{
 									"key": "username",
-									"value": "rodriguez",
+									"value": "garcia/5",
 									"type": "text"
 								},
 								{
 									"key": "results",
-									"value": "back",
+									"value": "typesrcipt",
 									"type": "text"
 								},
 								{
@@ -162,7 +162,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQxNzI3ZGRlZDQyZDVmMjkyYzhiNjkiLCJuYW1lIjoibHVsdSIsImVtYWlsIjoibHVsdUBlbWFpbC5jb20iLCJpYXQiOjE2OTg3ODg1MDUsImV4cCI6MTY5ODg3NDkwNX0.eJ5_k0EUuXxjfOgyHOFbwbpg2fX2gzgIJS397_bifG8",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQzOTk4MWZjZGMxN2IzZGY3ODk2OGMiLCJuYW1lIjoibGFsbyIsImVtYWlsIjoibGFsb0BlbWFpbC5jb20iLCJpYXQiOjE2OTg5MjkyMDEsImV4cCI6MTY5OTAxNTYwMX0.Vy5Inw4EDTI_BYMzMh_SOrM-SimWdahj8Iz647Vn27A",
 									"type": "string"
 								}
 							]
@@ -171,18 +171,20 @@
 						"header": [
 							{
 								"key": "auth-token",
-								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQxNzI3ZGRlZDQyZDVmMjkyYzhiNjkiLCJuYW1lIjoibHVsdSIsImVtYWlsIjoibHVsdUBlbWFpbC5jb20iLCJpYXQiOjE2OTg3ODg1MDUsImV4cCI6MTY5ODg3NDkwNX0.eJ5_k0EUuXxjfOgyHOFbwbpg2fX2gzgIJS397_bifG8",
+								"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTQzOTk4MWZjZGMxN2IzZGY3ODk2OGMiLCJuYW1lIjoibGFsbyIsImVtYWlsIjoibGFsb0BlbWFpbC5jb20iLCJpYXQiOjE2OTg5MjkyMDEsImV4cCI6MTY5OTAxNTYwMX0.Vy5Inw4EDTI_BYMzMh_SOrM-SimWdahj8Iz647Vn27A",
 								"type": "text"
 							},
 							{
-								"key": "username",
-								"value": "zucerkia",
-								"type": "text"
+								"key": "",
+								"value": "",
+								"type": "text",
+								"disabled": true
 							},
 							{
-								"key": "results",
-								"value": "ts-expressss",
-								"type": "text"
+								"key": "",
+								"value": "",
+								"type": "text",
+								"disabled": true
 							},
 							{
 								"key": "",
@@ -195,22 +197,19 @@
 							"mode": "urlencoded",
 							"urlencoded": [
 								{
-									"key": "",
-									"value": "",
-									"type": "text",
-									"disabled": true
+									"key": "username",
+									"value": "zucerkia",
+									"type": "text"
 								},
 								{
-									"key": "",
-									"value": "",
-									"type": "text",
-									"disabled": true
+									"key": "results",
+									"value": "ts-expressss",
+									"type": "text"
 								},
 								{
-									"key": "",
-									"value": "",
-									"type": "text",
-									"disabled": true
+									"key": "searchTerm",
+									"value": "repository",
+									"type": "text"
 								}
 							]
 						},
@@ -252,8 +251,12 @@
 								"type": "text"
 							}
 						],
+						"body": {
+							"mode": "urlencoded",
+							"urlencoded": []
+						},
 						"url": {
-							"raw": "http://localhost:3000/api/v1/search",
+							"raw": "http://localhost:3000/api/v1/search/65417a72ded42d5f292c8b6e",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -262,7 +265,8 @@
 							"path": [
 								"api",
 								"v1",
-								"search"
+								"search",
+								"65417a72ded42d5f292c8b6e"
 							]
 						}
 					},
@@ -293,17 +297,17 @@
 							"urlencoded": [
 								{
 									"key": "name",
-									"value": "lulu",
+									"value": "Pablo Diaz",
 									"type": "text"
 								},
 								{
 									"key": "password",
-									"value": "1234567555",
+									"value": "123456787",
 									"type": "text"
 								},
 								{
 									"key": "email",
-									"value": "lulu@email.com",
+									"value": "pablo@email.com",
 									"type": "text"
 								}
 							]
@@ -331,7 +335,7 @@
 						"header": [
 							{
 								"key": "name",
-								"value": "pepe",
+								"value": "pepess",
 								"type": "text"
 							},
 							{
@@ -346,7 +350,7 @@
 							}
 						],
 						"url": {
-							"raw": "http://localhost:3000/api/v1/user/65414521abe7a2bfa1094558",
+							"raw": "http://localhost:3000/api/v1/user/65412ac84f0a2d8715dd296d",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -356,7 +360,7 @@
 								"api",
 								"v1",
 								"user",
-								"65414521abe7a2bfa1094558"
+								"65412ac84f0a2d8715dd296d"
 							]
 						}
 					},
@@ -417,7 +421,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:3000/api/v1/user/653fd34b3cfe826c7224906f",
+							"raw": "http://localhost:3000/api/v1/user/65479a4d3202d934868e0bac",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -427,7 +431,7 @@
 								"api",
 								"v1",
 								"user",
-								"653fd34b3cfe826c7224906f"
+								"65479a4d3202d934868e0bac"
 							]
 						}
 					},
@@ -460,17 +464,17 @@
 							"urlencoded": [
 								{
 									"key": "name",
-									"value": "lulu",
+									"value": "Pablo Diaz",
 									"type": "text"
 								},
 								{
 									"key": "email",
-									"value": "lulu@email.com",
+									"value": "pablo@email.com",
 									"type": "text"
 								},
 								{
 									"key": "password",
-									"value": "1234567555",
+									"value": "123456787",
 									"type": "text"
 								},
 								{
