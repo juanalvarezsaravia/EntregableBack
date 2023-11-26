@@ -1,5 +1,6 @@
 import express from "express";
 import bodyParser from "body-parser";
+import cors from "cors";
 
 // Importamos las rutas
 import searchesRoutes from "./routes/searches.routes";
@@ -11,6 +12,8 @@ import { handleResponse } from "../handlers/response.handler";
 const app = express();
 // Configuración para el servidor
 app.use(express.json());
+
+app.use(cors());
 
 //usamos body-parser
 app.use(bodyParser.json());
