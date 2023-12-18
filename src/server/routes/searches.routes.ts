@@ -14,7 +14,7 @@ const router = Router();
 // definimos las rutas usando los metodos del controlador
 router.get("/search", middlewares, getSearchs);
 router.get("/search/:id", middlewares, getSearch);
-router.post("/search", middlewares, createSearch);
+router.post("/search", createSearch);
 router.put("/search/:id", middlewares, updateSearch);
 router.delete("/search/:id", middlewares, deleteSearch);
 

@@ -5,9 +5,18 @@ import Search from '../schemas/search.schema';
 
 
 export const createSearchService = async (search: ISearch) => {
-    const newSearch = new Search(search);
+    console.log('search', search);
+    console.log(typeof search);
+    try {
+        const newSearch = new Search(search);
+
     await newSearch.save();
     return newSearch;
+
+    }
+    catch (error){
+        console.log(error);
+    }
 }
 
 export const getSearchsService = async (query: any) => {
@@ -17,7 +26,7 @@ export const getSearchsService = async (query: any) => {
     if (results) filter['results'] = results;
     if (searchTerm) filter['searchTerm'] = searchTerm;
     if (timestamp) filter['timestamp'] = timestamp;
-   
+
 
     const searchs: ISearch[] = await Search.find(filter);
     return searchs;
