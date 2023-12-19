@@ -31,7 +31,6 @@ export const getSearch = async (req: Request, res: Response) => {
 };
 
 export const createSearch = async (req: Request, res: Response) => {
-  console.log("req.body", req.body);
   const body = req.body;
   const search = await createSearchService(body);
 

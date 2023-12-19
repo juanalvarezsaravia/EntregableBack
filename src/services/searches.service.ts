@@ -5,16 +5,14 @@ import Search from '../schemas/search.schema';
 
 
 export const createSearchService = async (search: ISearch) => {
-    console.log('search', search);
-    console.log(typeof search);
     try {
         const newSearch = new Search(search);
 
-    await newSearch.save();
-    return newSearch;
+        await newSearch.save();
+        return newSearch;
 
     }
-    catch (error){
+    catch (error) {
         console.log(error);
     }
 }
