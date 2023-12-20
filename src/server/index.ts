@@ -11,7 +11,7 @@ import { handleResponse } from "../handlers/response.handler";
 // Creamos una instancia de express
 const app = express();
 // Configuración para el servidor
-app.use(express.json());
+app.use(bodyParser.json({ limit: "50mb" }))
 
 app.use(cors());
 
